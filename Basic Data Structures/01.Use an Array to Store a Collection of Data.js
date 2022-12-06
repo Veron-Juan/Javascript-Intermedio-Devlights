@@ -1,0 +1,1 @@
+let yourArray = ["hola", 2, true, undefined, false];
